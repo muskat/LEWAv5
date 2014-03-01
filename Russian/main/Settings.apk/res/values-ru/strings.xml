@@ -2540,7 +2540,7 @@
     <string name="sensor_other_setting">Другие</string>
     <string name="sensor_smart_answer">Умный ответ</string>
     <string name="sensor_smart_answer_summary">Для ответа на входящий вызов поднесите устройство к уху</string>
-    <string name="sensor_turn_slient">Отключение вызова переворотом</string>
+    <string name="sensor_turn_slient">Отключение звука переворотом</string>
     <string name="sensor_turn_slient_summary">Переворот устройства отключает звук вызова</string>
     <string name="sensor_packet_ring">Режим в кармане</string>
     <string name="sensor_packet_ring_summary">Активировать вибрацию и увеличить громкость вызова, когда устройство в кармане</string>
