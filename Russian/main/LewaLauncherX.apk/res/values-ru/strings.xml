@@ -22,7 +22,7 @@
     <string name="safe_scanning_error">Ошибка сканирования, попробуйте позже</string>
     <string name="safe_status_one">Безопасно</string>
     <string name="safe_status_two">дня(ей) без проверки</string>
-    <string name="safe_status_three">Без проверки</string>
+    <string name="safe_status_three">Проверить</string>
     <string name="clean_toast_str0">Оптимизировано</string>
     <string name="clean_toast_str1">"Освобождено %1$d Мб памяти
 Доступно %2$d Мб"</string>
