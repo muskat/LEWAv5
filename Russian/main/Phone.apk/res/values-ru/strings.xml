@@ -1110,7 +1110,7 @@
     <string name="yellowpage_title">Желтые страницы</string>
     <string name="yellowpage_summary">Отображение в подсказках быстрых номеров различных компаний и служб</string>
     <string name="auto_voice_record_title">Автоматическая запись</string>
-    <string name="auto_voice_record_summary">Автоматически включать запись рразговора во время вызова</string>
+    <string name="auto_voice_record_summary">Автоматически включать запись разговора во время вызова</string>
     <string name="audio_sound_title">Звуки</string>
     <string name="vibrate_ringing">Вибрация при вызове</string>
     <string name="voice_call_ringtone_setting_title">Настройки мелодии вызова</string>
