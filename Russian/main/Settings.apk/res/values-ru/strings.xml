@@ -2544,10 +2544,10 @@
     <string name="sensor_turn_slient_summary">Переворот устройства отключает звук вызова</string>
     <string name="sensor_packet_ring">Режим в кармане</string>
     <string name="sensor_packet_ring_summary">Активировать вибрацию и увеличить громкость вызова, когда устройство в кармане</string>
-    <string name="sensor_desk_ring">Увеличение громкости вызова</string>
-    <string name="sensor_desk_ring_summary">Во время вызова, громкость будет увеличена до максимума</string>
-    <string name="sensor_voice">Плавное увеличение громкости вызова</string>
-    <string name="sensor_voice_summary">Во время вызова громкость будет плавно увеличена</string>
+    <string name="sensor_desk_ring">Громкость звонка</string>
+    <string name="sensor_desk_ring_summary">Во время вызова, громкость будет постепенно увеличена от 0 до максимума</string>
+    <string name="sensor_voice">Громкость звонка</string>
+    <string name="sensor_voice_summary">Во время вызова, громкость будет постепенно увеличена от установленного значения</string>
     <string name="sensor_smart_call">Умный вызов</string>
     <string name="sensor_smart_call_summary">Для вызова контакта при просмотре данных и сообщений, поднесите устройство к уху</string>
     <string name="activity_rounded_corner_title">Скругленные углы окон</string>
