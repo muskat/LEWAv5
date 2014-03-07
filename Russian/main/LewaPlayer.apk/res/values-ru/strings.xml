@@ -101,6 +101,9 @@
     <string name="ok">ОК</string>
     <string name="sleep_set">%1$d минут(ы)</string>
     <string name="record">Мои записи</string>
+    <string name="setting_auto_play">Автопроигрывание</string>
+    <string name="setting_auto_play_summary">Автоматическое проигрывание при возврате</string>
+    <string name="setting_auto_play_key">autoPlay</string>
     <string name="setting_backlight_title">Всегда вкл.</string>
     <string name="setting_backlight_key">isbacklight</string>
     <string name="setting_backlight_summary">Экран включен пока играет песня</string>
@@ -175,6 +178,9 @@
     <string name="no_playlists_title">Нет плейлистов</string>
     <string name="delete_playlist_menu">Удалить</string>
     <string name="edit_playlist_menu">Редактировать</string>
+    <string name="repeat_single">Переключено на повтор одной песни</string>
+    <string name="repeat_all">Переключено на цикличискиое проигрывание</string>
+    <string name="shuffle">Переключено на случайный порядок</string>
     <string name="rename_playlist_menu">Переименовать</string>
     <string name="playlist_deleted_message">Плейлист удален</string>
     <string name="playlist_renamed_message">Плейлист переименован</string>
