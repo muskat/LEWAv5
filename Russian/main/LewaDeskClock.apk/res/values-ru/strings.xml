@@ -133,4 +133,13 @@
     <string name="current_time">Текущее время:</string>
     <string name="set_timezone">Настройки</string>
     <string name="please_select_one_more_citys">Выберите хотя бы один город</string>
+    <string name="turn_snooze">Отложить сигнал переворотом</string>
+    <string name="repeat_everyday">Каждый день</string>
+    <string name="repeat_none">Не повторять</string>
+    <string name="alarm_alert_snooze_until">Период установлен в %s</string>
+    <string name="voice_ui_title">Управление голосом</string>
+    <string name="voice_ui_content_text">Управление голосом старта будильника</string>
+    <string name="alarm_command_summary_format">"Вы можете сказать %1$s или %2$s 
+ Отложить или выключить сигнал."</string>
+    <string name="alarm_command_summary_format_land">Сказать %1$s или %2$s Отложить или выключить сигнал.</string>
 </resources>
