@@ -2494,7 +2494,7 @@
     <string name="rom_size_default">"%1$s （Доступно）
 %2$s （Всего）"</string>
     <string name="g_sensor_calibration_title">Калибровка G-сенсора</string>
-    <string name="proximity_sensor_calibration_title">Калибровка сенсора приближения</string>
+    <string name="proximity_sensor_calibration_title">Калибровка датчика приближения</string>
     <string name="proximity_sensor_calibration_message">Пожалуйста, убедитесь, что датчики работают.</string>
     <string name="agreement_title">Сервисное соглашение</string>
     <string name="nightmodecolor_title">Цвета ночного режима</string>
@@ -2535,19 +2535,19 @@
     <string name="notification_led_freq_title">Частота мигания уведомлений</string>
     <string name="incoming_call_led_freq_title">Частота мигания входящего вызова</string>
     <string name="mms_led_freq_title">Частота мигания SMS</string>
-    <string name="sensor_settings">Настройки датчиков</string>
+    <string name="sensor_settings">Датчики</string>
     <string name="sensor_call_setting">Во время вызова</string>
     <string name="sensor_other_setting">Другие</string>
     <string name="sensor_smart_answer">Умный ответ</string>
     <string name="sensor_smart_answer_summary">Для ответа на входящий вызов поднесите устройство к уху</string>
-    <string name="sensor_turn_slient">Отключение звонка переворотом</string>
+    <string name="sensor_turn_slient">Отключение звука переворотом</string>
     <string name="sensor_turn_slient_summary">Переворот устройства отключает звук вызова</string>
     <string name="sensor_packet_ring">Режим в кармане</string>
-    <string name="sensor_packet_ring_summary">Активировать вибрацию и увеличить громкость звонка, когда устройство находится в кармане</string>
-    <string name="sensor_desk_ring">Громкость звонка</string>
-    <string name="sensor_desk_ring_summary">Во время вызова, громкость будет постепенно увеличена от 0 до максимума</string>
+    <string name="sensor_packet_ring_summary">Активируется вибрация и увеличивается громкость вызова, когда устройство находится в кармане</string>
+    <string name="sensor_desk_ring">Громкость вызова</string>
+    <string name="sensor_desk_ring_summary">Во время вызова громкость будет постепенно увеличена от 0 до максимума</string>
     <string name="sensor_voice">Режим разговора</string>
-    <string name="sensor_voice_summary">В режиме громкой связи, для возврата в нормальный режим, поднесите устройство к уху</string>
+    <string name="sensor_voice_summary">В режиме громкой связи для возврата в нормальный режим поднесите устройство к уху</string>
     <string name="sensor_smart_call">Умный вызов</string>
     <string name="sensor_smart_call_summary">Для вызова контакта при просмотре данных и сообщений, поднесите устройство к уху</string>
     <string name="activity_rounded_corner_title">Скругленные углы окон</string>

@@ -199,8 +199,8 @@
     <string name="title_qr_code">QR-сканер</string>
     <string name="title_nightmode">Ночь</string>
     <string name="title_halo">Гало</string>
-    <string name="switchwidgetsettings_title">Переключатели в панели уведомлений</string>
-    <string name="phonestatusbarsettings_title">Переключатели в панели уведомлений</string>
+    <string name="switchwidgetsettings_title">Переключатели</string>
+    <string name="phonestatusbarsettings_title">Переключатели</string>
     <string name="switchwidgetsettings_switch_title">Настройки панели уведомлений</string>
     <string name="switchwidgetsettings_switch_on">открыть</string>
     <string name="switchwidgetsettings_switch_off">закрыть</string>
@@ -208,7 +208,7 @@
     <string name="double_statusbar_setting">Двухстраничная панель состояния</string>
     <string name="twelve_hour_time_format_nopm">h:mm</string>
     <string name="settings_double_status">key_double_status</string>
-    <string name="widget_setting">Переключатели в панели уведомлений</string>
+    <string name="widget_setting">Переключатели</string>
     <string name="usagedata_setting">Показывать расход трафика</string>
     <string name="netspeed_setting">Показывать скорость сети</string>
     <string name="settings_disusagedata">key_usagedata_settings</string>
@@ -267,6 +267,8 @@
     <string name="reboot_later_confirm">Нет</string>
     <string name="reboot">Перезагрузка</string>
     <string name="reboot_message">Требуется перезагрузка</string>
+    <string name="shake_clean_title">Очистка встряхиванием</string>
+    <string name="shake_clean_summary">Быстрая очистка уведомлений встряхиванием</string>
     <string name="notifilter_header">СКРЫТЫЕ УВЕДОМЛЕНИЯ</string>
     <string name="notifilter_tail">ОТОБРАЖАЕМЫЕ УВЕДОМЛЕНИЯ</string>
 </resources>
