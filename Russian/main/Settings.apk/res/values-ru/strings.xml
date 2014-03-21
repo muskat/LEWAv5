@@ -2635,4 +2635,11 @@
     <string name="flip_2_mute_summary">Доступ к дополнительным настройкам</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калибровка G-сенсора/акселерометра</string>
+    <string name="sensor_shake_degree_gentle">Легко</string>
+    <string name="sensor_shake_degree_normal">Нормально</string>
+    <string name="sensor_shake_degree_strength">Сильно</string>
+    <string name="shake_degree_title">Сила встряхивания</string>
+    <string name="shake_degree_summary">Отрегулируйте силу встряхивания</string>
+    <string name="sensor_shake_ok">Ok</string>
+    <string name="sensor_shake_cancel">Отмена</string>
 </resources>
