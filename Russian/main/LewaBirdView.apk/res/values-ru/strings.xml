@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BirdView</string>
+    <string name="mb">Мб</string>
+    <string name="gb">Гб</string>
+    <string name="nosim">Нет трафика</string>
+    <string name="nosim_set">Трафик не задан</string>
+    <string name="used">Использовано</string>
+    <string name="surplus">Осталось</string>
+    <string name="noalarm">Добавить напоминание</string>
+    <string name="off">Выкл</string>
+    <string name="on">Вкл</string>
+    <string name="alarm">Напоминание</string>
+    <string name="power_on">Сохранить</string>
+    <string name="power_surplus">Осталось</string>
+    <string name="power_full">Зарядка</string>
+    <string name="power_isfull">Заряжено</string>
+    <string name="power_h">ч</string>
+    <string name="power_m">м</string>
+    <string name="torch">Фонарик</string>
+    <string name="safe_scanning">Сканирование...</string>
+    <string name="safe_scanning_error">Ошибка сканирования, повторите попытку</string>
+    <string name="safe_status_one">Статус оптимизации</string>
+    <string name="safe_status_two">"days havn't been scanned"</string>
+    <string name="safe_status_three">Никогда не был оптимизирован</string>
+    <string name="clean_toast_str0">Оптимизирован</string>
+    <string name="clean_toast_str1">"Успешно освобождено %1$d Мб памяти
+Стало доступно %2$d Мб"</string>
+</resources>
