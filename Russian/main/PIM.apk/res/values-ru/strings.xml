@@ -1592,4 +1592,5 @@
     <string name="group_member">Члены группы</string>
     <string name="send_contact_info">Отправить информацию о контакте</string>
     <string name="no_visible_groups">У Вас нет видимых групп</string>
+    <string name="toast_donot_start_activity">Не активировать</string>
 </resources>
