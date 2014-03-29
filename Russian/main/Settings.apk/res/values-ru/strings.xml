@@ -2642,4 +2642,6 @@
     <string name="shake_degree_summary">Отрегулируйте силу встряхивания</string>
     <string name="sensor_shake_ok">Ok</string>
     <string name="sensor_shake_cancel">Отмена</string>
+    <string name="sdcard_formatting">Форматирование внутренней памяти...</string>
+    <string name="erase internal sd storage">Очистить внутреннюю память</string>
 </resources>
