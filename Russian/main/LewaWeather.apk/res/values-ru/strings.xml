@@ -130,4 +130,6 @@
     <string name="mversion">2012.8</string>
     <string name="channel">lewa</string>
     <string name="shared_user_label">www.365rili.com</string>
+    <string name="about_data_source">Источник данных погоды</string>
+	<string name="thinkpage_provide">Данные погоды предоставляются ThinkPage</string>
 </resources>
