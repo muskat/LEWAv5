@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Погода</string>
+    <string name="app_name_weather">Погода</string>
     <string name="settings">Настройки</string>
     <string name="temp_settings">Настройки температуры</string>
     <string name="warn">напоминание</string>
