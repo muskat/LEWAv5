@@ -442,4 +442,7 @@
     <string name="open_download">Нажмите, чтобы открыть список загрузок</string>
     <string name="download_done">Загрузка завершена</string>
     <string name="add_to_download">“%s” добавить в список загрузки</string>
+    <string name="enter_name">Пожалуйста введите название песни или имя певца</string>
+	<string name="clear_histroy">Очистка истории</string>
+	<string name="no_result">Музыка не найдена</string>
 </resources>
