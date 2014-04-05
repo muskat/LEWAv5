@@ -8,6 +8,16 @@
         <item>Среда</item>
         <item>Четверг</item>
         <item>Пятница</item>
-        <item>Суббота</item> 
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="dayofweek_offical">
+        <item></item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
 </resources>
