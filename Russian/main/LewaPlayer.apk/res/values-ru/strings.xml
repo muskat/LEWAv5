@@ -46,7 +46,7 @@
     <string name="new_songs_list">Новый плейлист</string>
     <string name="hot_songs_list">Новый ТОП-плейлист</string>
     <string name="edit_playlist">Редактировать</string>
-    <string name="text_song_hound_title">Распознавание мызвки</string>
+    <string name="text_song_hound_title">Распознавание музыки</string>
     <string name="btn_create_track_text">Создать плейлист</string>
     <string name="text_playlist_cover">Обложка плейлиста</string>
     <string name="hint_playlist_name">Название плейлиста</string>
